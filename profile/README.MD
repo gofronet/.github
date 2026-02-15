@@ -60,14 +60,9 @@ Browser (gofro-web)
 - нет полноценной authN/authZ модели между компонентами;
 - gRPC между `gofro-control` и `gofro-node` работает без TLS/mTLS;
 
-## Документы компонентов
-
-- `README-gofro-control.md`
-- `README-gofro-node.md`
-- `README-gofro-web.md`
 
 ## Репозитории компонентов
 
-- `gofro-control`: `https://github.com/gofronet/gofro-control`
-- `gofro-node`: `https://github.com/gofronet/gofro-node`
-- `gofro-web`: `https://github.com/gofronet/gofro-web`
+- [Control Plane Node](https://github.com/gofronet/gofro-control)
+- [Data Plane Node](https://github.com/gofronet/gofro-node)
+- [Frontend](https://github.com/gofronet/gofro-web)
