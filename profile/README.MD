@@ -68,6 +68,6 @@ Browser (gofro-web)
 
 ## Репозитории компонентов
 
-- `gofro-control`: `<добавьте URL репозитория>`
-- `gofro-node`: `<добавьте URL репозитория>`
-- `gofro-web`: `<добавьте URL репозитория>`
+- `gofro-control`: `https://github.com/gofronet/gofro-control`
+- `gofro-node`: `https://github.com/gofronet/gofro-node`
+- `gofro-web`: `https://github.com/gofronet/gofro-web`
